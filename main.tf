@@ -9,3 +9,11 @@ resource "aws_instance" "GithubActionsInstanz" {
     Name = "Meine Github Actions Instanz"
   }
 }
+
+
+## terraform init
+## terraform plan
+## terraform apply
+
+
+## terraform destroy
